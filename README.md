@@ -1,5 +1,7 @@
 # Moodle CSV Generator
 
+![Moodle CSV Generator Logo](https://github.com/bladealex9848/CampusVirtual/blob/main/Moodle_CSV_Generator.png?raw=true)
+
 ## Descripción
 Moodle CSV Generator es una herramienta diseñada para facilitar la generación de archivos CSV compatibles con Moodle. Esta herramienta utiliza una interfaz gráfica sencilla para permitir a los usuarios ingresar datos y generar archivos CSV estructurados para su uso en plataformas Moodle.
 
